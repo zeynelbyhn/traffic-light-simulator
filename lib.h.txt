@@ -1,0 +1,10 @@
+#ifndef LIB_H
+#define LIB_H
+
+void kirmizi();
+void sari();
+void yesil();
+
+int tusa_basildi_mi(); 
+
+#endif
